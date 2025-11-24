@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{font-family:Inter,system-ui,Segoe UI,Roboto;color:#111;background:#fff}
+.container{max-width:1200px;margin:0 auto;padding:24px}

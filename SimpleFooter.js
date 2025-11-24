@@ -1,0 +1,1 @@
+export default function SimpleFooter(){ return (<footer style={{padding:24,textAlign:'center'}}>© LifeOS Final</footer>) }
